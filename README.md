@@ -3,6 +3,8 @@
 **Physics undergraduate · Astrophysics & Cosmology · Scientific Computing**  
 National and Kapodistrian University of Athens (NKUA), Greece
 
+🌐 **[Personal website](https://elisavetpavlidi.github.io/)**
+
 I'm an undergraduate physics student specializing in **astrophysics**, with interests in **early-universe cosmology, general relativity, black-hole physics, and gravitational waves**. I enjoy connecting theoretical models with numerical methods and interactive scientific visualizations.
 
 ## Research
